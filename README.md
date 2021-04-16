@@ -1,5 +1,5 @@
 ### Не хочу на фронт!
-![FrontEnd](https://pbs.twimg.com/media/Eak_GwwWoAEHBnq.jpg)
+![FrontEnd](https://pbs.twimg.com/media/EtXb96vWYAgYBRe.jpg)
 <!--
 **RFG-G/RFG-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
