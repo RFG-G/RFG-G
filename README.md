@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ruslan
 #### I am Frontend Developer
---
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=RFG-G)  
 --
 ![GitHub metrics](https://metrics.lecoq.io/RFG-G)  
