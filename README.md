@@ -7,9 +7,9 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=RFG-G)
 --
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RFG-G)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 ### Не хочу на фронт!
 ![FrontEnd](https://pbs.twimg.com/media/EtXb96vWYAgYBRe.jpg) 
 -->
