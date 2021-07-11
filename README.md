@@ -14,4 +14,4 @@
 ![FrontEnd](https://pbs.twimg.com/media/EtXb96vWYAgYBRe.jpg) 
 -->
 ---
-![Profiel View](https://komarev.com/ghpvc/?username=RFG-G&style=flat-square&label=Просмотры+профиля)
+![Profiel View](https://komarev.com/ghpvc/?username=RFG-G&style=flat-square)
