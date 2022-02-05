@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ruslan
-#### I am Frontend Developer
+#### I am Frontend and Mobile Developer
 ---
 ![GitHub metrics](https://metrics.lecoq.io/RFG-G)  
 
